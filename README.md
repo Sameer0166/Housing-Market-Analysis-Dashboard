@@ -163,17 +163,15 @@ During the development of this project, the following challenges were addressed:
 
 ### Housing Market Overview
 
-![Housing Overview](Images/Housing_Overview.png)
+![Housing Overview](https://github.com/Sameer0166/Housing-Market-Analysis-Dashboard/blob/main/page%201.png)
 
 ### Sales Performance
 
-![Sales Performance](Images/Sales_Performance.png)
+![Sales Performance](https://github.com/Sameer0166/Housing-Market-Analysis-Dashboard/blob/main/page%202.png)
 
 ### House Type Analysis
 
-![House Type Analysis](Images/House_Type_Analysis.png)
-
-> Store all dashboard screenshots inside the **Images** folder.
+![House Type Analysis](https://github.com/Sameer0166/Housing-Market-Analysis-Dashboard/blob/main/page%203.png)
 
 ---
 
