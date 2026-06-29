@@ -159,7 +159,7 @@ During the development of this project, the following challenges were addressed:
 
 ---
 
-## Dashboard Preview
+## Dashboard Screenshots
 
 ### Housing Market Overview
 
@@ -199,22 +199,6 @@ Possible future enhancements include:
 - Geographic map visualizations.
 - Forecasting future housing prices.
 - Regional investment recommendation model.
-
----
-
-## Dashboard Screenshots
-
-### Housing Market Overview
-
-*(Insert dashboard overview screenshot here.)*
-
-### Sales Performance
-
-*(Insert sales performance dashboard screenshot here.)*
-
-### House Type Analysis
-
-*(Insert house type analysis dashboard screenshot here.)*
 
 ---
 
